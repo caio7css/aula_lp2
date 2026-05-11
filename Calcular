@@ -2,7 +2,7 @@ package artur_cavadinha_7css;
 
 import java.util.Scanner;
 
-public class calcula_desgraca {
+public class Calcular {
     static Scanner sc = new Scanner(System.in);
 
     public static double calcularDistancia(double x1, double y1, double x2, double y2) {
